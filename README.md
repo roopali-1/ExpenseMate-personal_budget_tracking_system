@@ -32,5 +32,5 @@ ExpenseMate is a comprehensive personal budgeting and expense tracking system bu
 Stay on top of your finances with interactive charts, visual breakdowns, and intuitive filters, providing an easy-to-understand overview of your financial health.
 
 ExpenseMate - Budget Tracking System  
-![Dashboard](https://github.com/roopali-1/AdvantureWorks_Sales_Analysis_Dashboard_using_PowerBI/blob/main/Dashboard.png)
+![Dashboard](https://github.com/roopali-1/ExpenseMate-personal_budget_tracking_system/blob/main/Dashboard.png)
 
